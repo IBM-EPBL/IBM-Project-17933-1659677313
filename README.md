@@ -2,7 +2,7 @@
  
 PLASMA DONOR APPLICATION  ![image](https://user-images.githubusercontent.com/104589597/202521855-edf6d3af-3483-4b72-94e0-9e9ceff98790.png)
                                                            
-               ![image](https://user-images.githubusercontent.com/104589597/202522358-2d3c5ba1-a027-45bc-bf67-920b5e40d244.png)TEAM MEMBERS 
+         TEAM MEMBERS      ![image](https://user-images.githubusercontent.com/104589597/202522358-2d3c5ba1-a027-45bc-bf67-920b5e40d244.png) 
 
 ANUSHIYA S
 
