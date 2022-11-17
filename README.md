@@ -44,7 +44,7 @@ Saving the donor information and helping the needy by notifying the current dono
 In regard to the problem faced, an application is to be built which would take the donor details,
 store them and inform them upon a request.
 
-![image](https://user-images.githubusercontent.com/104589597/202524314-9245c9db-a16e-4d1f-99dd-d247cc095159.png)
+amo.githubusercontent.com/8b3ddee29a95230bd5c74dcf220c1cdcc18143d968fcc2f31cc9ddfa24922412/68747470733a2f2f7468756d62732e6766796361742e636f6d2f54696e74656446656d616c654669656c647370616e69656c2d73697a655f726573747269637465642e676966
 
 
 
