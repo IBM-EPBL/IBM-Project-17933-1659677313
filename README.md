@@ -2,7 +2,7 @@
  
 PLASMA DONOR APPLICATION  ![image](https://user-images.githubusercontent.com/104589597/202521855-edf6d3af-3483-4b72-94e0-9e9ceff98790.png)
                                                            
-         TEAM MEMBERS ![image](https://user-images.githubusercontent.com/104589597/202523072-c95814e4-8a63-47ee-a1a9-eed2d35988ac.png)
+                                         TEAM MEMBERS:    
  
 
 ANUSHIYA S
@@ -29,6 +29,23 @@ In a plasma-only donation, the liquid portion of the donor’s blood is separate
 Blood is drawn from one arm and sent through a high-tech machine that collects the plasma.
 The donor’s red blood cells and platelets are then returned to the donor along with some saline.
 The process is safe and only takes a few minutes longer than donating whole blood.
+
+Many of them need plasma if we donate plasma to others it will be useful for others and us also.
+
+SOFTWARE REQUIRED:
+
+Python, Flask , Docker
+
+System Required:
+
+8GB RAM,Intel Core i3,OS-Windows/Linux/MAC ,Laptop or Desktop
+During the COVID 19 crisis, the requirement of plasma became a high priority and the donor count has become low.
+Saving the donor information and helping the needy by notifying the current donors list, would be a helping hand. 
+In regard to the problem faced, an application is to be built which would take the donor details,
+store them and inform them upon a request.
+
+![image](https://user-images.githubusercontent.com/104589597/202524314-9245c9db-a16e-4d1f-99dd-d247cc095159.png)
+
 
 
 
