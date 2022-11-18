@@ -13,7 +13,7 @@
 ### JAYASHREE J
                                      
  
-![Your paragraph text](https://user-images.githubusercontent.com/104589597/202517423-ffa48706-a058-40b3-aae0-39c1394bf92c.jpg)
+![Your paragraph text](https://user-images.githubusercontent.com/104589597/202517423-ffa48706-a058-40b3-aae0-39c1394bf92c.jpg | width=100)
 Plasma is the liquid portion of blood. About 55% of our blood is plasma, 
 and the remaining 45% are red blood cells, white blood cells and platelets that are suspended in the plasma.
 Plasma is about 92% water. It also contains 7% vital proteins such as albumin, 
