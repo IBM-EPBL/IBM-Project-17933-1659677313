@@ -1,0 +1,26 @@
+from flask import Flask, render_template, request, redirect, url_for, section
+import ibm_db
+import re
+
+app=Flask(__name__)
+app.secret_key='a'
+
+conn=ibm_db.connect(DATABASE=;HOSTNAME=;PORT=;Security=;SSLServerCertificate=;UID=;PWD=;)
+@app.rout('')
+def register()
+    return render_template('register.html')
+@app.rout(login,methods=['GET',POST]) 
+def login()
+    return render_template('login.html')   
+@app.rout('dashboard.html')
+def dashboard()
+   return render_template('dashboard.html') 
+@app.rout('request.html')
+def request()
+   return render_template('request.html') 
+@app.rout('donation.html')
+def donation()
+   return render_template('donation.html') 
+@app.rout('about.html')
+def about()
+   return render_template('about.html') 

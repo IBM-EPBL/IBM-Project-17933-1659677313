@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Donation</title>
+  <style>
+    body {
+     
+      height: 455px;
+      text-align: center;
+      font-family: Times new roman ;
+ background-image: url('pls.jpg') ;
+    }
+
+    h3 {
+      color: rgb(0,0,0);
+      font-size: 40px;
+    }
+
+    .normal
+    {
+      border: 2px;
+      border-style: ridge;
+      border-radius: 7px;
+      padding-top: 5px;
+      padding-left: 8px;
+      padding-bottom: 8px;
+      padding-right: 8px;
+      border-color: rgb(0, 0, 0);
+      height: 22px;
+      width: 400px;
+    }
+
+    button {
+      border: 2px;
+      border-radius: 10px;
+      padding-top: 8px;
+      padding-left: 8px;
+      padding-bottom: 8px;
+      padding-right: 8px;
+      border-style: ridge;
+      width: 90px;
+      opacity: 90%;
+      border-color: rgb(0, 0, 0);
+      cursor: pointer;
+    }
+
+    .right {
+      width: 50%;
+      float: right;
+    }
+
+    .left {
+      width: 50%;
+      float: left;
+    }
+
+    p {
+    text-align: left;
+    padding-left: 7px;
+}
+
+    .address {
+      border: 2px;
+      border-style: ridge;
+      border-radius: 7px;
+      padding-top: 8px;
+      padding-left: 8px;
+      padding-bottom: 8px;
+      padding-right: 8px;
+      border-color: rgb(0, 0, 0);
+      height: 75px;
+      width: 395px;
+    }
+
+    .req_cont {
+    margin-top: 50px;
+    width: 40%;
+    border: 1px solid #9c9c9c;
+    border-radius: 9px;
+    box-shadow: 4px 3px 11px 0px grey;
+    background-color: #00FFFF;
+}
+    .req_cont_main {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .bottom_py {
+      width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    }
+    .form{
+     display:flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content:center;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="req_cont_main">
+    <div class="req_cont">
+
+        <h3>APPLY FOR PLASMA DONATION</h3>
+        <form method="post" class="form">
+
+
+          <input class="normal" type="text" name="name" placeholder="Name" required /><br>
+          <input class="normal" type="email" name="email" placeholder="Email" required /><br>
+          <input class="normal" type="number" name="mobile" placeholder="Mobile" required /><br>
+          <input class="normal" type="number" name="age" placeholder="Age" required /><br>
+          <input class="normal" type="text" name="sex" placeholder="Gender" required />
+ <br>
+ 
+ <input class="normal" type="text" name="Blood" placeholder="Blood group" required />
+           <br> <div>
+       <form action="upload.php" method="post" enctype="multipart/form-data">
+       &nbsp &nbsp  Select certificate to upload:
+       <input type="file" name="fileToUpload" id="fileToUpload">
+       </form><br></div><br>
+   <textarea class="address" name="address" placeholder="Address" required ></textarea><br>
+        <button style="text-align: center;" type="submit">Submit</button>
+        </form>
+ 
+    </div>
+  </div>
+</body>
+
+</html>

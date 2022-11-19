@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Login</title>
+        <a href="dashboard.html"></a>
+    </head>
+    <body background="G:\login.jpg">
+        <div id="container">
+            <form action="login" method="post" id="login">
+                
+                <div class="border-box">
+                    <center><h2>Login</h2><br>
+                    <label for="u_name" id="un">UserName</label>
+                    <input type="text" name="user" Placeholder="UserName" id="u_name"><br><br>
+
+                    <label for="passwd" id="ps">Password</label>
+                    <input type="password" name="paswd" placeholder="Password" id="passwd"><br><br>
+                    <a href="dashboard.html">submit</a>&nbsp&nbsp&nbsp&nbsp
+        
+                    
+                    <a href="register.html">Cancel</a><center>
+                </div>
+                	
+                </a>
+            </form>
+        </div>
+    </body>
+</html>
+
