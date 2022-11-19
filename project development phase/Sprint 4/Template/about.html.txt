@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title> about </title>
+        </head>
+        <body>
+            <div class="about-section">
+                <h1><b>About Us Page</b></h1>
+                <h1>DONOR ELIGIBILITY </h1>
+                
+              </div>
+              
+              <h2 style="text-align:center">To donate plasma a person must be a minimum of 18 years old and have good health.</h2>
+              <div class="row">
+                <div class="column">
+                  <div class="card">
+                    <img src="C:\Users\Sajin\Downloads\old.png" alt="Jane" style="width:100%">
+                    
+                  </div>
+                </div>
+              
+                <h1>
+                  <capital>
+                  Acess to safe blood can only be ensure by regular and proper plasma dotation
+                  Anyone healthy and between age 18-65 can easily donation plasma every 3 months 
+                  </capital>
+                </h1>
+                <center>
+
+                
+              </div>
+            </body>
+    </html>
